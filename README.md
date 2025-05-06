@@ -89,7 +89,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 3. Commit your changes (`git commit -am 'Add new feature'`).
 4. Push to the branch (`git push origin feature/your-feature-name`).
 5. Create a new pull request.
-
-## License
-
-This project is licensed under the [BSD 3-Clause License](LICENSE).
