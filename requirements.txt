@@ -1,0 +1,6 @@
+pandas==2.0.3
+pyperclip==1.8.2
+python-dotenv==1.0.1
+python_jenkins==1.8.2
+Requests==2.31.0
+black==24.1.1
